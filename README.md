@@ -1,4 +1,4 @@
-# StakingContract
+# Staking Contract
 
 
 # Specifications;
