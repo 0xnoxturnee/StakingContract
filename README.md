@@ -4,7 +4,7 @@
 # Specifications;
 i. a threshold amount of 100 ETH is set
 
-ii. 24hrs is also set as deadline
+ii. 12 hrs is also set as deadline
 
 iii. the contract receives ETH as deposits
 
